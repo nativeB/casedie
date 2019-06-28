@@ -1,0 +1,12 @@
+{
+  "name": "pacman",
+  "version": "1.0.0",
+  "description": "a tiny tool for case validation",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "case": "^1.6.1",
+    "change-case": "^3.1.0",
+    "replace-in-file": "^4.1.0"
+  }
+}
